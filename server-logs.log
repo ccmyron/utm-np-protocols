@@ -1,0 +1,13 @@
+[INFO ] 2022-01-05 18:26:55.240 [pool-2-thread-1] Server - [SERVER] user1 Connected!
+[INFO ] 2022-01-05 18:49:45.837 [pool-2-thread-1] Server - [SERVER] user1 Connected!
+[INFO ] 2022-01-05 18:49:50.580 [pool-2-thread-2] Server - [SERVER] user2 Connected!
+[INFO ] 2022-01-05 18:49:58.678 [pool-2-thread-1] Server - [ALL][user1] say hello
+[INFO ] 2022-01-05 18:50:46.428 [pool-2-thread-2] Server - [user2] yes
+[INFO ] 2022-01-05 18:50:49.801 [pool-2-thread-2] Server - [user2] yes
+[INFO ] 2022-01-05 18:50:50.856 [pool-2-thread-2] Server - [user2] yes
+[INFO ] 2022-01-05 18:50:51.636 [pool-2-thread-2] Server - [user2] yes
+[INFO ] 2022-01-05 18:50:52.405 [pool-2-thread-2] Server - [user2] e
+[INFO ] 2022-01-05 18:50:52.588 [pool-2-thread-2] Server - [user2] e
+[INFO ] 2022-01-05 18:50:52.765 [pool-2-thread-2] Server - [user2] e
+[INFO ] 2022-01-05 18:50:52.933 [pool-2-thread-2] Server - [user2] e
+[INFO ] 2022-01-05 18:50:53.088 [pool-2-thread-2] Server - [user2] e
